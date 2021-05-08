@@ -13,5 +13,5 @@ along with the use of particle effects and post processing, as well as the
 animation of the player car wheels and some trees in the background. Animation
 was generated using Mechanim and code.
 
-Presented is a link to a Youtube video demonstrating the level being played.
+The image below is a link to a Youtube video demonstrating the level being played.
 [![Vehicle Game Playthrough](doc/VehicleProjectThumbnail.jpg)](https://youtu.be/T3kcpsMXfbA "Vehicle Game Playthrough- Click to Watch!")
